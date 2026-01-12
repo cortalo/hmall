@@ -3,3 +3,4 @@ logs
 hm-service/target
 hm-common/target
 item-service/target/
+cart-service/target/
