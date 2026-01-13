@@ -8,3 +8,4 @@ hm-api/target
 user-service/target
 trade-service/target
 pay-service/target
+hm-gateway/target
