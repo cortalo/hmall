@@ -5,3 +5,4 @@ hm-common/target
 item-service/target/
 cart-service/target/
 hm-api/target
+user-service/target
