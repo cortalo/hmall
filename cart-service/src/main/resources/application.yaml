@@ -43,3 +43,6 @@ knife4j:
         api-rule-resources:
           - com.hmall.cart.controller
 # keytool -genkeypair -alias hmall -keyalg RSA -keypass hmall123 -keystore hmall.jks -storepass hmall123
+feign:
+  okhttp:
+    enabled: true # 开启OKHttp功能
